@@ -9,14 +9,14 @@
   "license": "LGPL-3.0+",
   "repository": {
     "type": "git",
-    "url": "git://github.com/bodil/purescript-pux-smolder-dom.git"
+    "url": "git://github.com/yehzhang/purescript-pux-smolder-dom.git"
   },
   "dependencies": {
     "purescript-prelude": "^3.1.0",
     "purescript-smolder": "^10.1.0",
     "purescript-smolder-dom": "^2.0.0",
     "purescript-exceptions": "^3.0.0",
-    "purescript-pux": "^11.0.0"
+    "purescript-pux": "^12.0.0"
   },
   "devDependencies": {
     "purescript-psci-support": "^3.0.0"
